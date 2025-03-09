@@ -1,0 +1,10 @@
+{
+  "domain": "cronicle",
+  "name": "Cronicle integration",
+  "version": "1.0",
+  "documentation": "https://github.com/aropop/home-assistant-cronicle",
+  "dependencies": [],
+  "codeowners": ["@aropop"],
+  "requirements": [],
+  "config_flow": true
+}

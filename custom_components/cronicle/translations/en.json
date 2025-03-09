@@ -1,0 +1,16 @@
+{
+  "title": "Cronicle",
+  "config": {
+    "flow_title": "Cronicle setup",
+    "step": {
+      "user": {
+        "data": {
+          "cronicle_url": "Url (e.g. http://cronicle.lan:3012)",
+          "cronicle_instance_name": "Instance name",
+          "cronicle_api_key": "Api token"
+        },
+        "description": "Enter the full url of your cronicle instance and api token, this can be created in the administration page of your Cronicle instance"
+      }
+    }
+  }
+}
