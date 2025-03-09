@@ -1,9 +1,0 @@
-version: '3'
-services:
-  homeassistant:
-    container_name: hass
-    image: homeassistant/home-assistant
-    volumes:
-      - ./custom_components/cronicle:/config/custom_components/cronicle
-      - /etc/localtime:/etc/localtime:ro
-    network_mode: host
