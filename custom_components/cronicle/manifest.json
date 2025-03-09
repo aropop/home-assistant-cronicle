@@ -5,6 +5,7 @@
   "documentation": "https://github.com/aropop/home-assistant-cronicle",
   "dependencies": [],
   "codeowners": ["@aropop"],
+  "issue_tracker": "https://github.com/aropop/home-assistant-cronicle/issues",
   "requirements": [],
   "config_flow": true
 }
